@@ -1,15 +1,22 @@
 # NineMensMorris
-Nine Men's Morris game developed in C++ (still in development)\n
+Nine Men's Morris game developed in C++ (still in development)
 ---
-\nFUNCTIONALITIES ALREADY IMPLEMENTED\n
--> Create Board\n
--> Player class and Black/White pieces Classes \n
+FUNCTIONALITIES ALREADY IMPLEMENTED
 
-\nBEING IMPLEMENTED\n
--> Checking Mill method\n
+-> Create Board
 
-\nTO BE IMPLEMENTED\n
--> Menu and help option (with 'how to play' instructions)\n
--> Take piece after a mill \n
--> Forfeit game\n
--> Player's with 3 pieces can move freely on the board\n
+-> Player class and Black/White pieces Classes 
+
+BEING IMPLEMENTED
+
+-> Checking Mill method
+
+TO BE IMPLEMENTED
+
+-> Menu and help option (with 'how to play' instructions)
+
+-> Take piece after a mill 
+
+-> Forfeit game
+
+-> Player's with 3 pieces can move freely on the board
